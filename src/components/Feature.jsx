@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import feature from "../assets/img/feature.png";
 
 function Feature() {
